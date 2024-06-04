@@ -2,8 +2,7 @@
 <h3 align="center">Full stack developer</h3>
 
 - 📫 How to reach me :
-<br />
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/balankdharan)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(www.linkedin.com/in/balankdharan)
 - 😄 I learn I share
 - ![Medium profile](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
