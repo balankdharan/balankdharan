@@ -47,9 +47,9 @@
  
 <h2 align="center">🎆 Git Stats 🎆</h2>
 <div align="center">
-<div>
+<!-- <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balankdharan&show_icons=true&locale=en&layout=compact&theme=react" alt="balankdharan" />
-</div>
+</div> -->
 
 <br/>
 
